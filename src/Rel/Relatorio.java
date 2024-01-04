@@ -8,6 +8,7 @@ public class Relatorio {
 	String getNome;
 	String getDescricaoProblema;
 	LocalDate getData;
+	Integer getId;
 
 	
 	public static void main(String[] args) {
